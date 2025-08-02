@@ -15,3 +15,5 @@ Identified peak sales hours and days for better staffing
 Revealed best-selling and underperforming pizza items
 Provided metrics on seating utilization efficiency
 Delivered a clean, interactive dashboard that supports operational decision-making
+
+<img width="1334" height="746" alt="Image" src="https://github.com/user-attachments/assets/980accee-859a-4113-9f84-95db60756414" />
